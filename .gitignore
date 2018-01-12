@@ -1,3 +1,4 @@
 node_modules
+mac-cert.p12
 dist/
 yarn.lock
